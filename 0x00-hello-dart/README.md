@@ -148,8 +148,21 @@ void main() {
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 3-print_double.dart
 Double: 3.14
 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# ^C
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 3-print_double.dart
+Double: 3.14
+
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 3-print_double_neg.dart
+Double: -98.12
+
+
 ## task4
 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 4-print_string.dart > output
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# cat -e output
+Holberton SchoolHolberton SchoolHolberton School$
+Holberton$
+$
 
 ## task5
 
