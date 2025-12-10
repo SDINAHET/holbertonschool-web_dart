@@ -136,7 +136,9 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 "Programming is like building a multilingual puzzle
 
 ## task2
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 2-print_number.dart
+98 Battery street
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# 
 
 ## task3
 
