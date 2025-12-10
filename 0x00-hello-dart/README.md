@@ -165,7 +165,17 @@ Holberton$
 $
 
 ## task5
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart#  dart --enable-asserts 5-assertion.dart 79
+Unhandled exception:
+'file:///mnt/d/Users/steph/Documents/6%C3%A8me%20trimestre/holbertonschool-web_dart/0x00-hello-dart/5-assertion.dart': Failed assertion: line 3 pos 10: 'nb >= 80': The score must be bigger or equal to 80
+#0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:67:4)
+#1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:49:5)
+#2      main (file:///mnt/d/Users/steph/Documents/6%C3%A8me%20trimestre/holbertonschool-web_dart/0x00-hello-dart/5-assertion.dart:3:10)
+#3      _delayEntrypointInvocation.<anonymous closure> (dart:isolate-patch/isolate_patch.dart:312:33)
+#4      _RawReceivePort._handleMessage (dart:isolate-patch/isolate_patch.dart:193:12)
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart --enable-asserts 5-assertion.dart 80
+You Passed
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# 
 
 ## task6
 
