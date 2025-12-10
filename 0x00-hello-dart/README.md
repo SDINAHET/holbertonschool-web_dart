@@ -141,6 +141,10 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart#
 
 ## task3
+void main() {
+  var n = 3.14159265359;
+}
+
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 3-print_double.dart
 Double: 3.14
 
