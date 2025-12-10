@@ -6,6 +6,9 @@ Hello Holberton from dart
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function#
 
 ## Task1
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# dart 1-main.dart
+Holberton School
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# 
 
 ## Task2
 
