@@ -95,7 +95,11 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 
 
 ## Task5
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# dart 5-main.dart
+70.0
+35.0
+15.73
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# 
 
 ## Task6
 
