@@ -106,15 +106,30 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 [77.0, 78.8, 73.4, 80.6, 86.0]
 [72.5, 78.8, 81.14, 74.48, 77.0]
 [24.44, 28.4, 32.9, 23.0, 28.94]
-root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function#
 
 ## Task7
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# dart 7-main.dart
+1
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function#
 
 ## Task8
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# dart 8-main.dart
+acbd
+a
+abcde
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function#
 
 ## Task9
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# dart 9-main.dart
+false
+true
+false
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function#
 
 ## Task10
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# dart 10-main.dart
+none
+ghjhg
+aaa
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# 
