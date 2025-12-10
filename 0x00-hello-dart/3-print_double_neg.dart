@@ -1,4 +1,4 @@
 void main() {
-  var n = 3.14159265359;
+  var n = -98.12;
   print("Double: ${n.toStringAsFixed(2)}\n");
 }
