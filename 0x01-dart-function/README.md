@@ -8,9 +8,13 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 ## Task1
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# dart 1-main.dart
 Holberton School
-root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function#
 
 ## Task2
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function# dart 2-main.dart 10 15
+Add 10 + 15 = 25
+Sub 10 - 15 = -5
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x01-dart-function#
 
 ## Task3
 
