@@ -130,3 +130,22 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 0-hello_holberton.dart
 Hello Holberton!
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart#
+
+## task1
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 1-quotes.dart
+"Programming is like building a multilingual puzzle
+
+## task2
+
+
+## task3
+
+
+## task4
+
+
+## task5
+
+
+## task6
+
