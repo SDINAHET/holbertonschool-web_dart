@@ -1,4 +1,4 @@
 void main() {
-  double number = -98.1241412;
-  print("Double: ${number.toStringAsFixed(2)}\n");
+  double number = 3.14159;
+  print("Double: ${number.toStringAsFixed(2)}");
 }
