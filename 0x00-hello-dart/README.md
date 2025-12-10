@@ -138,10 +138,11 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 ## task2
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 2-print_number.dart
 98 Battery street
-root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart#
 
 ## task3
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x00-hello-dart# dart 3-print_double.dart
+Double: 3.14
 
 ## task4
 
