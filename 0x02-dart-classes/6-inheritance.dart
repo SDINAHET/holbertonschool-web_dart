@@ -5,15 +5,29 @@ class User extends Password {
   String? name;
   int? age;
   double? height;
-  String? user_password;
+  // String? user_password;
+
+  // propriété interne privée
+  String? _userPassword;
 
   User({
     this.id,
     this.name,
     this.age,
     this.height,
-    this.user_password,
-  }) : super(password: user_password);
+    String? user_password,
+  })  : _userPassword = user_password,
+        super(password: user_password);
+
+  // getter
+  String? get user_password => _userPassword;
+
+  // setter
+  set user_password(String? newPassword) {
+    _userPassword = newPassword;
+    // très important : mise à jour du password de la classe parente
+    super.password = newPassword;
+  }
 
   Map<String, dynamic> toJson() {
     return {
