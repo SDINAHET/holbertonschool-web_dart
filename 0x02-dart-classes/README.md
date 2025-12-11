@@ -27,6 +27,13 @@ Your Password is PasswordDecode3
 true
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes#
 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes# dart 3-main.dart
+Your Password is: Passwordcode
+false
+Your Password is: PasswordDecode3
+true
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes#
+
 ## Task4
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes# dart 4-main.dart
 false
@@ -40,6 +47,12 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 {id: 1, name: Djo, age: 25, height: 1.89}
 User(id : 1 ,name: Djo,  age: 25, height: 1.89)
 User(id : 3 ,name: Youssef,  age: 26, height: 1.9)
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes#
+
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes# dart 5-main.dart
+{id: 1, name: Djo, age: 25, height: 1.89}
+User(id : 1 ,name: Djo, age: 25, height: 1.89)
+User(id : 3 ,name: Youssef, age: 26, height: 1.9)
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes#
 
 ## Task6
@@ -62,6 +75,6 @@ User(id : 3 ,name: Youssef, age: 26, height: 1.9, Password: true)
 
 User(id : 1 ,name: Djo, age: 25, height: 1.89, Password: true)
 User(id : 3 ,name: Youssef, age: 26, height: 1.9, Password: true)
-root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes# 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x02-dart-classes#
 
 
