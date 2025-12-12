@@ -17,9 +17,16 @@ root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart
 error caught: Cannot locate user
 
 ## Task3
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x03-asynchronous# d
+art 3-main.dart
+There is a user: true
+Hello admin
 
 ## Task4
-
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x03-asynch
+ronous# dart 4-main.dart
+30.3
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x03-asynch
+ronous#
 
 ## Task5
