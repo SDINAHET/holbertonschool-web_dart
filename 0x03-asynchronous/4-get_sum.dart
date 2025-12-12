@@ -32,6 +32,35 @@
 //   }
 // }
 
+// import 'dart:convert';
+// import '4-util.dart';
+
+// Future<double> calculateTotal() async {
+//   try {
+//     String userDataStr = await fetchUserData();
+//     Map<String, dynamic> userData = json.decode(userDataStr);
+//     String userId = userData['id'];
+
+//     String ordersStr = await fetchUserOrders(userId);
+//     List<dynamic> orders = json.decode(ordersStr) ?? [];
+
+//     double total = 0.0;
+
+//     for (var product in orders) {
+//       String priceStr = await fetchProductPrice(product);
+//       var priceDecoded = json.decode(priceStr);
+
+//       if (priceDecoded is num) {
+//         total += priceDecoded.toDouble();
+//       }
+//     }
+
+//     return total;
+//   } catch (e) {
+//     return -1.0;
+//   }
+// }
+
 import 'dart:convert';
 import '4-util.dart';
 
@@ -57,6 +86,6 @@ Future<double> calculateTotal() async {
 
     return total;
   } catch (e) {
-    return -1.0;
+    return -1;  // ⬅️ ici, bien -1 sans .0
   }
 }
