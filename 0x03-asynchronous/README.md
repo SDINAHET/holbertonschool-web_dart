@@ -29,6 +29,10 @@ ronous# dart 4-main.dart
 root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x03-asynch
 ronous#
 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x03-asynchronous# dart 4-main.dart
+30.3
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x03-asynchronous# 
+
 ## Task5
 dart pub get
 
@@ -85,4 +89,4 @@ Annie
 Antenna Morty
 Antenna Rick
 Ants in my Eyes Johnson
-root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x03-asynchronous# 
+root@UID7E:/mnt/d/Users/steph/Documents/6ème trimestre/holbertonschool-web_dart/0x03-asynchronous#
